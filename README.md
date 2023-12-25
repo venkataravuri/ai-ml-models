@@ -1,27 +1,13 @@
 # AI/ML Models
-A collection of ML Models - Jupyter Notebooks & Scripts.
 
-## LLM Fine-tuning Colab Notebooks
+A collection of ready to use Machine Learning Models (Jupyter/Colab Notebooks & Scripts).
 
-|Topic|Name|Description|Details|
-|---|---|---|---|
-|Fine-tune LLMs|[Llama 2 7B Chat Fine-tuning Colab Notebook]()|?|?|
-
-## LLM powered Autonomous AI Agents
-
-|Topic|Name|Description|Details|
-|---|---|---|---|
-|LangChain|[AI Powered Autonomous Agents]()|?|?|
-
-## PyTorch Learning Jupyter Notebooks
-
-|Topic|Name|Description|Details|
-|---|---|---|---|
-|Audio|[?]()|?|?|
-|Tensors Learning Notes|[?]()|?|?|
-
-## Traditional ML Jupyter Notebooks
-
-|Topic|Name|Description|Details|
-|---|---|---|---|
-||[XGBoost]()|?|?|
+- [LLMs](1-llms/Readme.md)
+    - [Fine-tuning LLMs - Colab Notebooks](1-llms/Readme.md)
+    - [Tokenization & Embeddings](1-llms/Readme.md)
+    - [Evaluation & Metrics](1-llms/Readme.md)
+- [LLM-powered Autonomous AI Agents](2-llm-powered-autonomous-ai-agents/Readme.md)
+    - [LangChain](2-llm-powered-autonomous-ai-agents/Readme.md)
+- [PyTorch - Deep Learning - Jupyter Notebooks](3-deeplearning-with-pytorch/Readme.md)
+- [Traditional ML - Jupyter Notebooks](4-traditional-ml/Readme.md)
+- [Vector Databases - Colab Notebooks](5-vector-db/Readme.md)
