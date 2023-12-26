@@ -1,10 +1,10 @@
 ## PyTorch Learning - Jupyter Notebooks
 
 ### Table of Contents
-- Basics
-- Vision
-- Audio
-- Optimizations
+- [Basics](#pytorch-basics)
+- [Vision](#visionimage-ml-models)
+- [Audio](#audio)
+- [Optimizations & Distributed Training](#optimizations--distributed-training)
 
 ### PyTorch Basics
 
@@ -44,10 +44,25 @@
 |Audio|[Audio Transcription](3-audio/4-audio-transcription.ipynb)|?|
 |Audio|[Speech Recognition with Wav2Vec2](3-audio/5-speech-recognition-with-wav2Vec2.ipynb)|?|
 
-### Others
+### External Audio Colab Notebooks
+
+- TorchAudio's I/O: Inspect audio data, load them into PyTorch Tensors and save PyTorch Tensors: https://colab.research.google.com/github/pytorch/audio/blob/gh-pages/main/_downloads/4d63e50ab0e70c0e96fd6641e0823ce8/audio_io_tutorial.ipynb
+- Speech Recognition with Wav2Vec2: https://colab.research.google.com/github/pytorch/audio/blob/gh-pages/main/_downloads/ca83af2ea8d7db05fb63211d515b7fde/speech_recognition_pipeline_tutorial.ipynb
+- OpenAI Whishper Model on LibriSpeech dataset: https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb
+
+### Optimizations & Distributed Training
 
 |Topic|Name|Description|
 |---|---|---|---|
 |Optimizations|[Tensor RT](4-optimizations/1-tensorrt.ipynb)|?|
 |Optimizations|[Optimizing Vision Transformer](4-optimizations/2-optimizing-vision-transformer-for-deployment.ipynb)|?|
 ||[Quantized Transfer Learning](4-optimizations/3-quantized_transfer_learning.ipynb)|?|
+
+- Data Parallel Training: https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/8976a0b7cba4d8c4bc2a28205b91a7da/ddp_pipeline.ipynb
+- Model Parallel Training: https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/03a48646520c277662581e858e680809/model_parallel_tutorial.ipynb
+
+### Weights & Biases
+
+- Weights & Biases: https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb
+
+
