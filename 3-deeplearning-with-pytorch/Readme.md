@@ -28,6 +28,7 @@
 -[How to visualise filters in a CNN with PyTorch](https://stackoverflow.com/questions/55594969/how-to-visualise-filters-in-a-cnn-with-pytorch)
 
 - [Clothing Dataset](https://github.com/alexeygrigorev/clothing-dataset)
+- [MS COCO Dataset](https://huggingface.co/datasets/ChristophSchuhmann/MS_COCO_2017_URL_TEXT)
 
 |Topic|Name|Description|
 |---|---|---|---|
