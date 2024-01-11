@@ -8,6 +8,8 @@
 
 ### PyTorch Basics
 
+- [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
 |Topic|Name|Description|
 |---|---|---|---|
 |Basics|[Tensor Operations](1-basics/1-tensor-operations.ipynb)|?|
