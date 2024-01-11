@@ -25,6 +25,8 @@
 
 ### Vision/Image ML Models
 
+-[How to visualise filters in a CNN with PyTorch](https://stackoverflow.com/questions/55594969/how-to-visualise-filters-in-a-cnn-with-pytorch)
+
 |Topic|Name|Description|
 |---|---|---|---|
 |Vision|[CNN (Convolution Neural Network) - CIFAR10 Dataset](2-vision/1-cnn-cifar10.ipynb)|?|
