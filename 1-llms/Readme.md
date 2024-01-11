@@ -23,5 +23,5 @@
 - Benchmark Transformers: https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/benchmark.ipynb
 - Attention Visualization: https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb
 - Visual Question Answering - https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/ViLT/Inference_with_ViLT_(visual_question_answering).ipynb
-
+- [Text Classification on GLUE](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/text_classification.ipynb#scrollTo=5o4rUteaIrI_)
 
