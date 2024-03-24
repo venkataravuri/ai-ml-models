@@ -24,3 +24,11 @@ In approximately nearest neighbors (ANN), we build index structures that narrow 
 Hierarchical Navigable Small World (HNSW) graphs are among the top-performing indexes for vector similarity search[1]. HNSW is a hugely popular technology that time and time again produces state-of-the-art performance with super fast search speeds and fantastic recall.
 
 Yet despite being a popular and robust algorithm for approximate nearest neighbors (ANN) searches, understanding how it works is far from easy.
+
+We can split ANN algorithms into three distinct categories; trees, hashes, and graphs. HNSW slots into the graph category. More specifically, it is a proximity graph, in which two vertices are linked based on their proximity (closer vertices are linked) — often defined in Euclidean distance.
+
+There is a significant leap in complexity from a ‘proximity’ graph to ‘hierarchical navigable small world’ graph. 
+
+https://www.pinecone.io/learn/series/faiss/hnsw/
+
+
